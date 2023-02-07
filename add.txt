@@ -1,3 +1,5 @@
+//This is a simple addition program
+
 var sum=0;
 function add(a,b)
 {
