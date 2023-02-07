@@ -1,0 +1,7 @@
+var sum=0;
+function add(a,b)
+{
+sum=a+b;
+console.log("The sum of "+a+" and "+b+" is "+sum); 
+}
+sum(2,3)
